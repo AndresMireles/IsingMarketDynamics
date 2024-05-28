@@ -29,18 +29,20 @@ To translate the Ising Model into the financial context, we make the following i
 
 ## Results
 
-![image](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/b6374041-b475-473d-96d4-4ad25a37949b)
-![image](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/e981b114-e264-47f2-a614-1623e73dcb3c)
-![Strategy](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/9fd9c488-6f3a-4f69-9ad6-c205c17db308)
+### Fat-tailed distribution of returns
+![image](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/0c8b64f9-70f3-42cc-9473-ee610f73e8ce)
 
-
-
-
-
+### Autocorrelation of returns
+$$
+\rho_A(\tau) = \frac{\sum_{t=\tau+1}^{t_f} (|m(t)| - \overline{|m|})(|m(t-\tau)| - \overline{|m|})}{\sum_{t=1}^{t_f} (|m(t)| - \overline{|m|})^2}
+$$
 
 
 
 ### Strategies
+![image](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/b6374041-b475-473d-96d4-4ad25a37949b)
+![image](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/e981b114-e264-47f2-a614-1623e73dcb3c)
+![Strategy](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/9fd9c488-6f3a-4f69-9ad6-c205c17db308)
 
 ### Simulation of events
 ![Simulation Event](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/c41c5aa1-4529-4196-ac70-378d8ef768d7)![Simulation Event](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/816b0576-093e-45e1-9d83-16c0a350a8fc)![Simulation Event](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/de1676e2-5f9a-4f4d-87df-136b0655f5ba)
