@@ -22,7 +22,14 @@ $$ cm(t) = \sum_{t'=0}^{t} m(t') $$
 
 To translate the Ising Model into the financial context, we make the following interpretations:
 - Each spin particle is treated as a trader who can buy or sell a stock, represented by the value of $s_i$.
-- Instantaneous magnetization is understood as the instantaneous change in stock price, based on the supply and demand model in financial markets.
-- Cumulative magnetization is treated as the stock price over time.
-- The interaction between traders (spin particles) is expanded beyond first neighbors to all neighbors, incorporating the various relationships among all market participants. In this setup, the physical concept of a dimensional lattice becomes irrelevant.
-- The magnetic field is treated as an external force, such as positive or negative market news about a company that affects market prices. This magnetic field is inhomogeneous for each trader.
+- The instantaneous magnetization $m(t)$ is understood as the instantaneous change in stock price, based on the supply and demand model in financial markets.
+- The cumulative magnetization $cm(t)$ is treated as the stock price over time.
+- The interaction $J$ between traders (spin particles) is expanded beyond first neighbors to all neighbors, incorporating the various relationships among all market participants. In this setup, the physical concept of a dimensional lattice becomes irrelevant.
+- The magnetic field $h$ is treated as an external force, such as positive or negative market news about a company that affects market prices. This magnetic field is inhomogeneous for each trader.
+
+## Results
+
+### Simulation of events
+![Simulation Event](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/c41c5aa1-4529-4196-ac70-378d8ef768d7)![Simulation Event](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/816b0576-093e-45e1-9d83-16c0a350a8fc)![Simulation Event](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/de1676e2-5f9a-4f4d-87df-136b0655f5ba)
+
+
