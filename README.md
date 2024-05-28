@@ -33,11 +33,7 @@ To translate the Ising Model into the financial context, we make the following i
 ![image](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/0c8b64f9-70f3-42cc-9473-ee610f73e8ce)
 
 ### Autocorrelation of returns
-![image](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/f86f9801-7aff-4dd4-8092-f56d937c339c)
-![Autocorrelation](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/547f9161-c26a-4c66-8141-f9f3ed8256ac)
-
-
-
+![Autocorrelation](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/d3764310-a180-47da-aabe-8f412b59901f)
 
 ### Strategies
 ![image](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/b6374041-b475-473d-96d4-4ad25a37949b)
