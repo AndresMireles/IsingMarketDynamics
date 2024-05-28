@@ -33,9 +33,9 @@ To translate the Ising Model into the financial context, we make the following i
 ![image](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/0c8b64f9-70f3-42cc-9473-ee610f73e8ce)
 
 ### Autocorrelation of returns
-$$
-\rho_A(\tau) = \frac{\sum_{t=\tau+1}^{t_f} (|m(t)| - \overline{|m|})(|m(t-\tau)| - \overline{|m|})}{\sum_{t=1}^{t_f} (|m(t)| - \overline{|m|})^2}
-$$
+![image](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/f86f9801-7aff-4dd4-8092-f56d937c339c)
+![Autocorrelation](https://github.com/AndresMireles/IsingMarketDynamics/assets/64489886/547f9161-c26a-4c66-8141-f9f3ed8256ac)
+
 
 
 
