@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project employs the Ising model from physics to simulate stock market dynamics. Using this framework, we explore herd behavior in financial markets and replicate financial stylized facts such as autocorrelation and fat-tailed distributions of returns. Additionally, we test traditional trading strategies like momentum, mean-reversion, and value investing within the Ising model context.
+This project employs the Ising model from physics to simulate stock market dynamics. Using this framework, we explore herd behaviour in stock markets, simulate financial events and replicate stylized facts such as autocorrelation and fat-tailed distributions of returns. Additionally, we test traditional trading strategies like momentum, mean-reversion, and value investing within the Ising model context.
 
 ## Model Description
 
