@@ -28,7 +28,7 @@ To translate the Ising Model into the financial context, we make the following i
 - The magnetic field $h$ is treated as an external force, such as positive or negative market news about a company that affects market prices. This magnetic field is inhomogeneous for each trader.
 
 ## Conclusions and applications
-The Ising Market Dynamics model offers a new perspective in financial engineering and risk management by allowing the simulation of complex market scenarios. This approach allows practitioners to observe the effects of herd behavior and collective decision making on market stability and price evolution. It is a powerful tool for stress testing and scenario analysis, crucial for anticipating and mitigating potential financial risks before they manifest themselves in the real world.
+Since we have been able to replicate stylized economic facts, the Ising Market Dynamics model offers a new perspective in financial engineering and risk management by allowing the simulation of complex market scenarios. This approach allows practitioners to observe the effects of herd behavior and collective decision making on market stability and price evolution. It is a powerful tool for stress testing and scenario analysis, crucial for anticipating and mitigating potential financial risks before they manifest themselves in the real world.
 
 ## Results
 
